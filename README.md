@@ -1,0 +1,2 @@
+# Nota-Scribe
+Note Taker
